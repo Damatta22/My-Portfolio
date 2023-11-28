@@ -24,11 +24,11 @@ export default function Home() {
           <div className="buttons">
         <SocialBtns/>
          
-          <button className='btn-primary'>
+          <a className='btn-primary'href='mailto:flaviodamataflv@gmail.com'>
             contact me
             <EmailIcon/>
             
-           </button>
+           </a>
           </div>
      
     </main>

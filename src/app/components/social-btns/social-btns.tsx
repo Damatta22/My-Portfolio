@@ -12,8 +12,8 @@ export default function SocialBtns(){
         <div className="social">
 
             <a href=""><InstaIcon/></a>
-            <a href=""><LinkedInIcon/></a>
-            <a href=""><GitHubIcon/></a>
+            <a href="https://linkedin.com/in/fláviodamata"><LinkedInIcon/></a>
+            <a href="https://github.com/Damatta22"><GitHubIcon/></a>
             <a href=""><TwitterIcon/></a>
 
 
