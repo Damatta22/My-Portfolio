@@ -15,8 +15,8 @@ export function Header(){
               src="/Fdm.png"
               alt="My Image"
          
-              width={320}
-              height={330}
+              width={280}
+              height={280}
               priority
               />
             </div>
