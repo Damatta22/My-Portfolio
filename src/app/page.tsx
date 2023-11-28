@@ -21,6 +21,7 @@ export default function Home() {
       <Header/>
        <Experience/>
         <Info/>
+      
           <div className="buttons">
         <SocialBtns/>
          

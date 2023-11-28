@@ -7,7 +7,7 @@ export function Header(){
             
             <div>
 
-              <h1>Hi, I´m Flávio da Mata!👋 </h1>
+              <h1>Hi!👋<br></br> I´m Flávio da Mata! </h1>
               <h2>Front-end Developer</h2>
             </div>
 
