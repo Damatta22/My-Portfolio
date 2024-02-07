@@ -5,15 +5,26 @@ import "./experience.scss";
 export function Experience() {
   return (
     <div className="experience">
-      <SectionTitle text="Experience" />
+      <SectionTitle text="About Me" />
 
       <p>
         I´m passionate about creating intuitive and attractive interfaces.
         Throughout my freelance career, I´ve had the opportunity to work on a
         variety of challenging projects that have allowed me to hone my skills
         and develop a deep understanding of front-end design and development
-        best practices.
+        best practices. Technologies: Java Script/ Html/ Css/ React JS/ React
+        Native/Node JS/Nodemon/Axios/Git/ Git Hub/Insomnia/Styled
+        Components/Typescript/ Docker... <br /> Professional summary: Experience
+        in Front-end and Back-end also, Knowledge in, HTML, CSS, REACT JS,
+        framework as my library, Code versioning using Git, Github. Consumption
+        of Api’s using AXIOS. My previous experiences were essential for my
+        professional and personal development, having a good relationship with
+        co-workers and clientes. Completely open to constructive criticism,
+        responsibility and corporate mentality. Working as a team is my focus
+        for exchanging knowledge and learning.
       </p>
+      <br />
+      <hr className="divisor" />
       <div className="experience-time">
         <div className="experience-languages">
           <Image

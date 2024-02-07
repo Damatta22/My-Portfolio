@@ -2,10 +2,12 @@
   display: flex;
   align-items: center;
   gap: 34px;
+  margin-top: 30%;
+  margin-bottom: 30%;
 
   a {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     border: 1px solid white;
     border-radius: 50px;
 
@@ -14,4 +16,6 @@
     justify-content: center;
     cursor: pointer;
   }
+
+  
 }
